@@ -35,11 +35,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/callstack/rock.git",
+    "url": "git+https://github.com/callstackincubator/rock.git",
     "directory": "packages/platform-apple-helpers"
   },
   "homepage": "https://rockjs.dev",
-  "bugs": "https://github.com/callstack/rock/issues",
+  "bugs": "https://github.com/callstackincubator/rock/issues",
   "license": "MIT",
   "author": "Callstack <incubator@callstack.com>"
 }
